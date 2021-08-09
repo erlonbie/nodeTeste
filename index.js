@@ -6,6 +6,7 @@ const handlebars = require("express-handlebars");
 const sass = require("node-sass-middleware");
 //const morgan = require('morgan');
 //comentário teste
+//comentario pra testar o novo repositorio
 app.use(logger("combined"));
 app.engine(
   "hbs",
