@@ -7,9 +7,6 @@ const sass = require("node-sass-middleware");
 //const morgan = require('morgan');
 //comentário teste
 //comentario pra testar o novo repositorio
-//asdasdasd
-//asdasdasd
-//asdasdasd
 app.use(logger("combined"));
 app.engine(
   "hbs",
